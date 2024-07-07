@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Brahim%20Anfoud/Desktop/mlflow-test/mlruns/0/054b2342ba894acf905becc23e70390f/artifacts
+end_time: 1720306913090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 054b2342ba894acf905becc23e70390f
+run_name: welcoming-ray-995
+run_uuid: 054b2342ba894acf905becc23e70390f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720306910809
+status: 3
+tags: []
+user_id: Brahim Anfoud

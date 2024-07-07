@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Brahim%20Anfoud/Desktop/mlflow-test/mlruns/0/423ebe7536f04ae296d1315ffacb971d/artifacts
+end_time: 1720306520958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 423ebe7536f04ae296d1315ffacb971d
+run_name: handsome-ox-455
+run_uuid: 423ebe7536f04ae296d1315ffacb971d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720306518560
+status: 3
+tags: []
+user_id: Brahim Anfoud
